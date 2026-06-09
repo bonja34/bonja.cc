@@ -1,12 +1,12 @@
-import pfp from './assets/pfp.png';
+import pfp from './assets/pfp.jpg';
 import banner from './assets/banner.png';
 
 export const site = {
-  name: 'lunynt.lol',
-  url: 'https://lunynt.lol',
-  description: "lunynt's personal site.",
-  ogImage: 'https://lunynt.lol/banner.webp',
-  personImage: 'https://lunynt.lol/pfp.webp',
+  name: 'bonja.cc',
+  url: 'https://bonja.cc',
+  description: "bonja's personal site.",
+  ogImage: 'https://bonja.cc/banner.png',
+  personImage: 'https://bonja.cc/pfp.jpg',
   lang: 'en',
   locale: 'en_US',
   ogType: 'website',
@@ -22,18 +22,17 @@ export const pages = {
 } as const;
 
 export const user = {
-  name: 'lunynt',
-  pronunciation: 'lun·int',
-  pronunciationHint: '"lun" like "fun", "int" like "tint/hint/mint"',
+  name: 'bonja',
+  pronunciation: 'bon·ja',
+  pronunciationHint: '"bon" like "bond", "ja" like "jar" without the r',
   pfp,
   banner,
-  about: `hi, i'm lunynt, and uh... i build free and open-source projects for everyone. most of my projects focus on creating alternatives to paid or closed-source software, proving that great tools don't need a price tag. if that makes a few greedy developers cry, then that's a bonus :p\n\ni believe open-source makes software better. people can contribute, improve things over time, and build something that's better for everyone, without locking it behind a paywall.`,
+  about: `hi, i'm bonja, im currently working on reverse engineering software`,
   projects: [
-    'lunynt/lunynt.lol',
-    'lunynt/lunynt',
+    'bonja34/bonja.cc',
   ] as string[],
   discord: {
-    userId: '160830289357176832', // this is my user id, change this to yours and join discord.gg/lanyard for the RPC to work
+    userId: '470846721564344325',
   },
 } as const;
 
@@ -47,7 +46,7 @@ export const guestbook = {
     'root',
     'support',
     'staff',
-    'lunynt',
-    'lunynthere',
+    'bonja',
+    'bonja34',
   ],
 } as const;

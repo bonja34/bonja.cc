@@ -1,7 +1,7 @@
 {
-  "name": "lunynt.lol",
-  "short_name": "lunynt",
-  "description": "lunynt's personal portfolio site",
+  "name": "bonja.cc",
+  "short_name": "bonja",
+  "description": "bonja's personal portfolio site",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#000000",

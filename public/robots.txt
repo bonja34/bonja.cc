@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /admin
 Disallow: /api
 
-Sitemap: https://lunynt.lol/sitemap-index.xml
+Sitemap: https://bonja.cc/sitemap-index.xml
