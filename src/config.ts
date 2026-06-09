@@ -27,7 +27,7 @@ export const user = {
   pronunciationHint: '"bon" like "bond", "ja" like "jar" without the r',
   pfp,
   banner,
-  about: `hi, i'm bonja, im currently working on reverse engineering software`,
+  about: `hi, i'm bonja, im currently working on reverse engineering`,
   projects: [
     'bonja34/bonja.cc',
   ] as string[],
