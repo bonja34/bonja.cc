@@ -24,7 +24,7 @@ export const pages = {
 export const user = {
   name: 'bonja',
   pronunciation: 'bon·ja',
-  pronunciationHint: '"bon" like "bond", "ja" like "jar" without the r',
+  pronunciationHint: '"bon" like "bone", "ja" like "jah"',
   pfp,
   banner,
   about: `hi, i'm bonja, im currently working on reverse engineering`,
